@@ -1,0 +1,24 @@
+{
+  "name": "leagueofshadows",
+  "version": "1.0.0",
+  "description": "webapp",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrap",
+    "angular",
+    "7",
+    "django",
+    "python",
+    "3"
+  ],
+  "author": "Sharath, Swathi",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.7"
+  }
+}
